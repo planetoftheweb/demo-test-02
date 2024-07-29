@@ -17,3 +17,4 @@ To update this with your own images, check out [these instructions](docs/update_
 
 ## Contributions
 - Modified by Ray Villalobos
+- Add your name here
